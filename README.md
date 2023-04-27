@@ -20,7 +20,7 @@
  python .\seeyou-A8-HTMLOFFICESERVLET-fileload-getshell.py -f .\host.txt
 ```
 
-效果一：
+效果图：
 ![image](https://user-images.githubusercontent.com/66779835/234741209-43aa2536-c080-4695-9ce9-187716469641.png)
 
 黄色标记的为成功上传wensbell并利用的地址
