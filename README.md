@@ -22,7 +22,9 @@
 
 效果一：
 ![image](https://user-images.githubusercontent.com/66779835/234741209-43aa2536-c080-4695-9ce9-187716469641.png)
+
 黄色标记的为成功上传wensbell并利用的地址
 ![image](https://user-images.githubusercontent.com/66779835/234741428-4466c54e-f6e5-47bc-86d1-81f54e85fad8.png)
+
 也会有上传后无法利用的，可能是存在waf或者防护设备的
 ![image](https://user-images.githubusercontent.com/66779835/234741582-24293018-90c6-46fa-a440-90332fb9cf60.png)
